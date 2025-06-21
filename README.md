@@ -40,9 +40,6 @@ git clone https://github.com/NadezhdaLukanova/htmlacademy_nerds.git
 ```
 2. Открыть index.html в браузере.
 
-## 📸 Скриншот
-
-
 ## 🔗 Ссылки:
 
 - [Код на GitHub](https://github.com/NadezhdaLukanova/htmlacademy_nerds)
